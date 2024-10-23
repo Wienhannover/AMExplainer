@@ -1,4 +1,5 @@
-# WWW_2024
+# Adversarial Mask Explainer for Graph Neural Networks
+
 There are two folders, the node folder is for the node classification task and the graph folder is for the graph classification task.
 
 In each folder, you could directly run the .ipynb file, the meaning of the hyperparameters
